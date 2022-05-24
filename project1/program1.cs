@@ -11,7 +11,7 @@ namespace project1
         static void Main(String[] args)
         {
             int per = Convert.ToInt32(Console.ReadLine());
-
+            //worked
             if(per >= 90)
             {
                 Console.WriteLine("Grade is A");
