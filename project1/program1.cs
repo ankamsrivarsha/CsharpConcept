@@ -8,7 +8,7 @@ namespace project1
 {
     internal class program1
     {
-        static void Main(String[] args)
+        static void Main1(String[] args)
         {
             int per = Convert.ToInt32(Console.ReadLine());
             //worked
