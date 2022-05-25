@@ -21,6 +21,8 @@ namespace project1
 
             double re = Program3methods.Area(2);
             Console.WriteLine(re);
+            Area a1 = new Area();
+            a1.AreaOfClass(2);
         }
     }
 }
