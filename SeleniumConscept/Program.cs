@@ -10,7 +10,7 @@ namespace SeleniumConscept
 {
     internal class Program
     {
-        static void Main(String[] args)
+        static void Main0(String[] args)
         {
             IWebDriver driver = new ChromeDriver();
 

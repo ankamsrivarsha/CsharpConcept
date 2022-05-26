@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "project1", "project1\projec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumConscept", "SeleniumConscept\SeleniumConscept.csproj", "{1DF8B34F-8D06-4677-803D-70CB4D7C0DD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment3", "Assignment3\Assignment3.csproj", "{7AEBB2C7-0E8B-4EBC-A25C-C69350AF68BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1DF8B34F-8D06-4677-803D-70CB4D7C0DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DF8B34F-8D06-4677-803D-70CB4D7C0DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DF8B34F-8D06-4677-803D-70CB4D7C0DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AEBB2C7-0E8B-4EBC-A25C-C69350AF68BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEBB2C7-0E8B-4EBC-A25C-C69350AF68BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEBB2C7-0E8B-4EBC-A25C-C69350AF68BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEBB2C7-0E8B-4EBC-A25C-C69350AF68BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
