@@ -14,7 +14,7 @@ namespace project1
             double output = 3.14 * r * r;
             return output;
         }
-        public static void Main(String[] args)
+        public static void Main6(String[] args)
         {
             double res = Program3methods.Area(1);
             Console.WriteLine(res);
