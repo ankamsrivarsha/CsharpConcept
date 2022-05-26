@@ -13,7 +13,7 @@ namespace project1
         public double esal;
         public static string companyName;
 
-        public static void Main5(String[] args)
+        public static void Main85(String[] args)
         {
             Employee.companyName = "fujitsu";
             Employee emp = new Employee();

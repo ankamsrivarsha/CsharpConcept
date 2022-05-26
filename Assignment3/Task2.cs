@@ -10,7 +10,7 @@ namespace Assignment3
 {
     internal class Task2
     {
-        public static void Main(String[] args)
+        public static void Main24(String[] args)
         {
             IWebDriver driver = new ChromeDriver();
             driver.Url = "https://www.db4free.net/phpMyAdmin/";
