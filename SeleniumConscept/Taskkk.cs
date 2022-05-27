@@ -8,7 +8,7 @@ namespace SeleniumConscept
 {
     internal class Taskkk
     {
-        public static void Main(String[] args)
+        public static void Main99(String[] args)
         {
             IWebDriver driver = new ChromeDriver();
             driver.Manage().Window.Maximize();
