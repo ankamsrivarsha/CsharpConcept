@@ -11,7 +11,7 @@ namespace Assignment3
 {
     internal class Saleforce
     {
-        public static void Main(String[] args)
+        public static void Main33(String[] args)
         {
             IWebDriver driver = new ChromeDriver();
             driver.Manage().Window.Maximize();

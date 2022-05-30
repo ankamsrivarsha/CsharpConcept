@@ -8,16 +8,15 @@ using System.Threading.Tasks;
 
 namespace SeleniumConscept
 {
-    internal class Taskkk
+    internal class work
     {
-        public static void Main909(String[] args)
+        public static void Mai9n(String[] args)
         {
             IWebDriver driver = new ChromeDriver();
             driver.Manage().Window.Maximize();
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(30);
-
-            driver.Url = "https://www.db4free.net/";
-
+            driver.Url = "https://www.google.com";
+            driver.SwitchTo().NewWindow(WindowType.Window);
 
         }
     }
